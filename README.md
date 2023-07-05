@@ -8,5 +8,5 @@ I took the data from Trendyol through visual studio code with the beautifulsoup 
 
 For this project, I used a dataset on laptop prices from trendyol. The dataset contains information including brand, screen size, processor type, memory capacity, storage capacity, graphics card, and price. In total, the dataset contains 1176 rows and 17 variables.
 
-![image](https://github.com/zehrakezer/Streamlit_Company_Reviews_Analysis/assets/75537211/945aa30e-1634-4c87-9e2c-dbe6f941cab8)
+![image](https://github.com/zehrakezer/Laptop_Price_Prediction/blob/main/trendyol.png)
 
